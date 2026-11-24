@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+        <title>羅東座坐 Sit·Stay Brunch</title>
+        <link rel="icon" href="data:image/jpeg;base64,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">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+        <style>
+            :root {
+                --bg: #F4EDDC;
+                --card: #FFFBF0;
+                --ink: #2E2A25;
+                --sub: #5E574B;
+                --navy: #1F3A5F;
+                --onnavy: #fff;
+                --line: #CDBF9F;
+                --acc: #B94A2E;
+                --yolk: #E8B33C;
+                --avo: #5F7F35;
+                --onavo: #fff;
+                --brown: #2C2622;
+                --cream: #F4EDDC;
+                --tag: #EADFC6;
+                box-sizing: border-box;
+                padding-top: env(safe-area-inset-top,0px);
+                padding-bottom: env(safe-area-inset-bottom,0px)
+            }
+
+            @media (prefers-color-scheme: dark) {
+                :root:not([data-theme="light"]) {
+                    --bg:#1B1D22;
+                    --card: #25282F;
+                    --ink: #EFEAE0;
+                    --sub: #B8B1A3;
+                    --navy: #6C93C9;
+                    --onnavy: #10151D;
+                    --line: #444852;
+                    --acc: #EE9A7E;
+                    --avo: #9DBB6B;
+                    --onavo: #1B1D22;
+                    --tag: #33363E;
+                    color-scheme: dark
+                }
+            }
+
+            :root[data-theme="dark"] {
+                --bg: #1B1D22;
+                --card: #25282F;
+                --ink: #EFEAE0;
+                --sub: #B8B1A3;
+                --navy: #6C93C9;
+                --onnavy: #10151D;
+                --line: #444852;
+                --acc: #EE9A7E;
+                --avo: #9DBB6B;
+                --onavo: #1B1D22;
+                --tag: #33363E;
+                color-scheme: dark
+            }
+
+            html {
+                scroll-padding-top: env(safe-area-inset-top,0px)
+            }
+
+            * {
+                box-sizing: border-box
+            }
+
+            body {
+                margin: 0;
+                background: var(--bg);
+                color: var(--ink);
+                font-family: "Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;
+                font-size: 16px;
+                line-height: 1.75
+            }
+
+            .wrap {
+                max-width: 560px;
+                margin: 0 auto;
+                padding: 16px 16px 40px
+            }
+
+            svg.i {
+                width: 24px;
+                height: 24px;
+                flex: none;
+                fill: none;
+                stroke: currentColor;
+                stroke-width: 2;
+                stroke-linecap: round;
+                stroke-linejoin: round
+            }
+
+            .hero {
+                background: var(--brown);
+                color: var(--cream);
+                border-radius: 24px;
+                text-align: center;
+                padding: 22px 16px 20px
+            }
+
+            .logo {
+                width: 96px;
+                height: 96px;
+                border-radius: 50%;
+                object-fit: cover;
+                display: block;
+                margin: 0 auto 10px
+            }
+
+            .hero h1 {
+                margin: 0;
+                font-size: 28px;
+                line-height: 1.3;
+                letter-spacing: 4px
+            }
+
+            .hero .en {
+                margin: 0 0 12px;
+                letter-spacing: 3px;
+                opacity: .85
+            }
+
+            .tape {
+                display: inline-block;
+                background: var(--yolk);
+                color: #2E2A25;
+                font-weight: 700;
+                padding: 1px 14px;
+                border-radius: 4px;
+                transform: rotate(-1.5deg)
+            }
+
+            .hero .tape {
+                font-size: 15px
+            }
+
+            nav {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 12px;
+                margin: 20px 0
+            }
+
+            nav button {
+                min-height: 72px;
+                border-radius: 18px;
+                border: 2px solid var(--navy);
+                background: var(--card);
+                color: var(--navy);
+                box-shadow: 0 4px 0 var(--navy);
+                font: 700 17px/1.3 inherit;
+                font-family: inherit;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                gap: 2px;
+                cursor: pointer
+            }
+
+            nav button[aria-selected="true"] {
+                background: var(--navy);
+                color: var(--onnavy);
+                transform: translateY(4px);
+                box-shadow: none
+            }
+
+            section {
+                display: none
+            }
+
+            section.on {
+                display: block
+            }
+
+            .card {
+                background: var(--card);
+                border: 1.5px solid var(--line);
+                border-radius: 18px;
+                padding: 18px;
+                margin-bottom: 16px
+            }
+
+            .card h2 {
+                display: inline-block;
+                font-size: 19px;
+                margin: 0 0 12px;
+                background: var(--yolk);
+                color: #2E2A25;
+                padding: 1px 14px;
+                border-radius: 4px;
+                transform: rotate(-1.2deg)
+            }
+
+            p {
+                margin: 0 0 8px
+            }
+
+            .sub {
+                color: var(--sub)
+            }
+
+            .row {
+                display: flex;
+                gap: 8px;
+                align-items: baseline;
+                padding: 7px 0
+            }
+
+            .dots {
+                flex: 1;
+                border-bottom: 2px dotted var(--line);
+                min-width: 12px;
+                transform: translateY(-4px)
+            }
+
+            .p {
+                font-weight: 700;
+                color: var(--acc);
+                font-size: 17px;
+                white-space: nowrap
+            }
+
+            .info .row {
+                border-bottom: 1px dashed var(--line);
+                justify-content: space-between
+            }
+
+            .info .row:last-child {
+                border-bottom: 0
+            }
+
+            .t {
+                display: inline-block;
+                font-size: 12px;
+                font-weight: 700;
+                border-radius: 4px;
+                padding: 0 6px;
+                margin-left: 5px;
+                line-height: 1.6;
+                background: var(--navy);
+                color: var(--onnavy);
+                vertical-align: 2px
+            }
+
+            .t.h {
+                background: var(--acc);
+                color: #fff
+            }
+
+            .t.y {
+                background: var(--yolk);
+                color: #2E2A25
+            }
+
+            .t.g {
+                background: var(--avo);
+                color: var(--onavo)
+            }
+
+            .pills {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 8px;
+                margin-top: 8px
+            }
+
+            .pills span {
+                background: var(--tag);
+                border-radius: 999px;
+                padding: 2px 14px;
+                font-size: 15px;
+                font-weight: 500
+            }
+
+            .chips {
+                display: flex;
+                gap: 8px;
+                flex-wrap: wrap;
+                margin-bottom: 16px
+            }
+
+            .chips button {
+                min-height: 44px;
+                padding: 0 18px;
+                border-radius: 999px;
+                border: 1.5px solid var(--navy);
+                background: transparent;
+                color: var(--navy);
+                font: 500 16px inherit;
+                font-family: inherit;
+                cursor: pointer
+            }
+
+            .chips button[aria-pressed="true"] {
+                background: var(--navy);
+                color: var(--onnavy)
+            }
+
+            .plate {
+                padding: 12px 0;
+                border-bottom: 1px dashed var(--line)
+            }
+
+            .plate:last-child {
+                border-bottom: 0
+            }
+
+            .plate .hd {
+                display: flex;
+                gap: 8px;
+                align-items: baseline;
+                font-weight: 700
+            }
+
+            .num {
+                display: inline-block;
+                width: 28px;
+                height: 28px;
+                line-height: 24px;
+                text-align: center;
+                border-radius: 50%;
+                border: 2px solid var(--acc);
+                color: var(--acc);
+                font-size: 14px;
+                margin-right: 8px;
+                transform: rotate(-8deg)
+            }
+
+            .plate small {
+                display: block;
+                color: var(--sub);
+                font-size: 15px;
+                line-height: 1.6;
+                margin-top: 2px
+            }
+
+            .note {
+                background: var(--tag);
+                border-radius: 12px;
+                padding: 10px 14px;
+                font-size: 15px;
+                margin: 10px 0 0
+            }
+
+            .rules {
+                background: var(--brown);
+                color: var(--cream);
+                border-radius: 18px;
+                padding: 16px 18px;
+                margin-bottom: 16px
+            }
+
+            .rules h2 {
+                display: inline-block;
+                margin: 0 0 8px;
+                font-size: 19px;
+                background: var(--cream);
+                color: var(--brown);
+                padding: 1px 14px;
+                border-radius: 4px;
+                transform: rotate(-1.2deg)
+            }
+
+            .rules ul {
+                margin: 0;
+                padding-left: 20px
+            }
+
+            .btn {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 8px;
+                min-height: 56px;
+                border-radius: 16px;
+                border: 2px solid var(--navy);
+                background: var(--navy);
+                color: var(--onnavy);
+                font: 700 17px inherit;
+                font-family: inherit;
+                text-decoration: none;
+                width: 100%;
+                margin-bottom: 12px;
+                cursor: pointer
+            }
+
+            .btn.alt {
+                background: transparent;
+                color: var(--navy)
+            }
+
+            .back {
+                margin-top: 24px
+            }
+
+            .plateimg {
+                display: block;
+                width: 120px;
+                height: 120px;
+                margin: 0 auto 8px
+            }
+
+            label {
+                display: block;
+                font-weight: 500;
+                margin: 12px 0 4px
+            }
+
+            input,select {
+                width: 100%;
+                min-height: 48px;
+                border: 1.5px solid var(--line);
+                border-radius: 12px;
+                padding: 0 12px;
+                font: 16px inherit;
+                font-family: inherit;
+                background: var(--bg);
+                color: var(--ink)
+            }
+
+            #out {
+                white-space: pre-line;
+                background: var(--tag);
+                border-radius: 12px;
+                padding: 12px 14px;
+                margin: 12px 0;
+                display: none
+            }
+
+            footer {
+                text-align: center;
+                color: var(--sub);
+                font-size: 14px;
+                margin-top: 24px
+            }
+
+            footer a {
+                color: var(--sub)
+            }
+        </style>
+    </head>
+    <body>
+        <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+            <defs>
+                <symbol id="i-home" viewBox="0 0 24 24">
+                    <path d="M3 11l9-8 9 8M5 10v10h14V10"/>
+                </symbol>
+                <symbol id="i-pin" viewBox="0 0 24 24">
+                    <path d="M12 21s7-6.2 7-11a7 7 0 10-14 0c0 4.8 7 11 7 11z"/>
+                    <circle cx="12" cy="10" r="2.5"/>
+                </symbol>
+                <symbol id="i-fork" viewBox="0 0 24 24">
+                    <path d="M7 3v8M4 3v5a3 3 0 006 0V3M7 11v10M17 21V3c-2.5 1.5-3 5-3 8h3"/>
+                </symbol>
+                <symbol id="i-cal" viewBox="0 0 24 24">
+                    <rect x="3" y="5" width="18" height="16" rx="3"/>
+                    <path d="M3 10h18M8 3v4M16 3v4"/>
+                </symbol>
+                <symbol id="i-tel" viewBox="0 0 24 24">
+                    <path d="M5 4h4l2 5-2.5 1.5a11 11 0 005 5L15 13l5 2v4a2 2 0 01-2 2A16 16 0 013 6a2 2 0 012-2z"/>
+                </symbol>
+                <symbol id="i-ig" viewBox="0 0 24 24">
+                    <rect x="3" y="3" width="18" height="18" rx="5"/>
+                    <circle cx="12" cy="12" r="4"/>
+                    <circle cx="17.5" cy="6.5" r=".6"/>
+                </symbol>
+                <symbol id="i-up" viewBox="0 0 24 24">
+                    <path d="M12 19V5M6 11l6-6 6 6"/>
+                </symbol>
+            </defs>
+        </svg>
+        <div class="wrap">
+            <header class="hero">
+                <img class="logo" src="data:image/jpeg;base64,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" alt="羅東座坐 Logo" width="96" height="96">
+                <h1>羅東座坐</h1>
+                <p class="en">SIT · STAY BRUNCH</p>
+                <span class="tape">2026 版菜單</span>
+            </header>
+            <nav id="menu" role="tablist" aria-label="主選單">
+                <button role="tab" data-t="overview" aria-selected="true">
+                    <svg class="i">
+                        <use href="#i-home"/>
+                    </svg>
+                    總覽
+                </button>
+                <button role="tab" data-t="info" aria-selected="false">
+                    <svg class="i">
+                        <use href="#i-pin"/>
+                    </svg>
+                    店家資訊
+                </button>
+                <button role="tab" data-t="menu" aria-selected="false">
+                    <svg class="i">
+                        <use href="#i-fork"/>
+                    </svg>
+                    菜單
+                </button>
+                <button role="tab" data-t="book" aria-selected="false">
+                    <svg class="i">
+                        <use href="#i-cal"/>
+                    </svg>
+                    立即訂位
+                </button>
+            </nav>
+            <section id="overview" class="on">
+                <div class="card">
+                    <svg class="plateimg" viewBox="0 0 120 120" aria-hidden="true">
+                        <circle cx="60" cy="60" r="55" fill="#EADFC6" stroke="#CDBF9F" stroke-width="2"/>
+                        <circle cx="60" cy="60" r="42" fill="#FFFBF0"/>
+                        <ellipse cx="45" cy="62" rx="16" ry="22" fill="#5F7F35"/>
+                        <ellipse cx="45" cy="66" rx="10" ry="14" fill="#C8D98C"/>
+                        <circle cx="45" cy="69" r="6" fill="#8A5A3B"/>
+                        <circle cx="82" cy="50" r="16" fill="#fff" stroke="#E0D6BE" stroke-width="2"/>
+                        <circle cx="82" cy="50" r="7" fill="#E8B33C"/>
+                        <circle cx="78" cy="86" r="8" fill="#9DBB6B"/>
+                    </svg>
+                    <h2>歡迎來到座坐</h2>
+                    <p>坐下來，慢慢吃一份早午餐。羅東座坐以澳式早午餐為主軸，搭配宜蘭鮮乳與蜂蜜飲品，也有與健身品牌合作的高蛋白餐盤。</p>
+                    <div class="pills">
+                        <span>澳式早午餐</span>
+                        <span>宜蘭鮮乳</span>
+                        <span>蜂蜜飲品</span>
+                        <span>健身餐</span>
+                    </div>
+                    <p class="sub" style="margin-top:12px">老闆是宜蘭旅遊達人，提供免費旅遊諮詢。</p>
+                </div>
+                <div class="card">
+                    <h2>店內人氣</h2>
+                    <div class="row">
+                        <span>
+                            澳式酪梨盤<span class="t y">人氣</span>
+                        </span>
+                        <i class="dots"></i>
+                        <span class="p">$370</span>
+                    </div>
+                    <div class="row">
+                        <span>
+                            超營養拌飯<span class="t y">人氣</span>
+                        </span>
+                        <i class="dots"></i>
+                        <span class="p">$320</span>
+                    </div>
+                    <div class="row">
+                        <span>
+                            蜂蜜柚子茶<span class="t g">新品</span>
+                        </span>
+                        <i class="dots"></i>
+                        <span class="p">$120</span>
+                    </div>
+                </div>
+                <div class="card">
+                    <h2>營業時間</h2>
+                    <p>
+                        週一至週五 09:00～16:00<br>
+                        <span class="sub">週三公休</span>
+                    </p>
+                </div>
+                <div id="rules2"></div>
+                <button class="btn" data-go="menu">
+                    <svg class="i">
+                        <use href="#i-fork"/>
+                    </svg>
+                    直接看菜單
+                </button>
+            </section>
+            <section id="info">
+                <div class="card info">
+                    <h2>店家資訊</h2>
+                    <div class="row">
+                        <span class="sub">店名</span>
+                        <span>羅東座坐 Sit·Stay Brunch</span>
+                    </div>
+                    <div class="row">
+                        <span class="sub">地址</span>
+                        <span>265 宜蘭縣羅東鎮大新里公正路 34 號 1 樓</span>
+                    </div>
+                    <div class="row">
+                        <span class="sub">電話</span>
+                        <a href="tel:039559229" style="color:var(--navy);font-weight:700">03-955-9229</a>
+                    </div>
+                    <div class="row">
+                        <span class="sub">營業時間</span>
+                        <span>週一～週五 09:00～16:00（週三公休）</span>
+                    </div>
+                    <div class="row">
+                        <span class="sub">Wi-Fi</span>
+                        <span>Sitrest　密碼 039559229</span>
+                    </div>
+                    <div class="row">
+                        <span class="sub">Instagram</span>
+                        <a href="https://www.instagram.com/sit.stay_brunch/" target="_blank" rel="noopener" style="color:var(--navy);font-weight:700">@sit.stay_brunch</a>
+                    </div>
+                </div>
+                <a class="btn" target="_blank" rel="noopener" href="https://www.google.com/maps/search/?api=1&query=%E5%AE%9C%E8%98%AD%E7%B8%A3%E7%BE%85%E6%9D%B1%E9%8E%AE%E5%A4%A7%E6%96%B0%E9%87%8C%E5%85%AC%E6%AD%A3%E8%B7%AF34%E8%99%9F">
+                    <svg class="i">
+                        <use href="#i-pin"/>
+                    </svg>
+                    開啟地圖導航
+                </a>
+                <a class="btn alt" target="_blank" rel="noopener" href="https://www.instagram.com/sit.stay_brunch/">
+                    <svg class="i">
+                        <use href="#i-ig"/>
+                    </svg>
+                    追蹤 Instagram
+                </a>
+                <div class="rules" id="rules">
+                    <h2>入店規定</h2>
+                    <ul>
+                        <li>低消每人座坐餐盤一份或飲品一杯</li>
+                        <li>外食勿入內食用</li>
+                        <li>寵物需置放於籠內</li>
+                        <li>用餐時間 90 分鐘</li>
+                        <li>請降低音量</li>
+                    </ul>
+                </div>
+            </section>
+            <section id="menu-sec">
+                <div class="chips" id="chips"></div>
+                <div id="list"></div>
+                <p class="sub" style="font-size:15px">
+                    I＝冰飲　H＝熱飲<br>本店飲品採用鮮乳坊鮮乳。
+                </p>
+            </section>
+            <section id="book">
+                <div class="card">
+                    <h2>立即訂位</h2>
+                    <p class="sub">填寫資料後產生訂位內容，再撥打電話或複製給店家確認。</p>
+                    <label for="n">姓名</label>
+                    <input id="n" autocomplete="name">
+                    <label for="d">日期</label>
+                    <input id="d" type="date">
+                    <label for="tm">時間</label>
+                    <select id="tm">
+                        <option>09:00</option>
+                        <option>10:00</option>
+                        <option>11:00</option>
+                        <option selected>12:00</option>
+                        <option>13:00</option>
+                        <option>14:00</option>
+                    </select>
+                    <label for="c">人數</label>
+                    <select id="c"></select>
+                    <div id="out"></div>
+                    <button class="btn" id="gen" style="margin-top:16px">
+                        <svg class="i">
+                            <use href="#i-cal"/>
+                        </svg>
+                        產生訂位內容
+                    </button>
+                    <a class="btn alt" href="tel:039559229">
+                        <svg class="i">
+                            <use href="#i-tel"/>
+                        </svg>
+                        撥打電話 03-955-9229
+                    </a>
+                    <p class="sub" style="font-size:15px">週三公休，用餐時間 90 分鐘。</p>
+                </div>
+            </section>
+            <div id="backbox"></div>
+            <footer>
+                <a href="https://www.instagram.com/sit.stay_brunch/" target="_blank" rel="noopener">Instagram @sit.stay_brunch</a>
+                <br>© 2026 羅東座坐 Sit·Stay Brunch
+            </footer>
+        </div>
+        <script>
+            var drinks = [["咖啡", [["Espresso", 100, "H"], ["黑美式", 100, "IH"], ["拿鐵", 140, "IH"], ["蜂蜜拿鐵", 150, "IH"], ["冰釀咖啡", 150, "I", 1], ["西西里冰咖啡", 180, "I", 1], ["手沖咖啡", 180, "IH"]]], ["軟性飲品", [["蜂蜜柚子茶", 120, "IH", 1], ["鮮蜂蜜檸檬", 110, "I"], ["蜂蜜牛奶泡泡", 120, "I"], ["冬瓜檸檬", 100, "I"], ["純檸檬汁（無糖）", 100, "IH"], ["微氣泡水", 100, "I"], ["鮮乳坊鮮奶", 100, "IH"]]], ["宜蘭茶", [["好笑茶（台茶 12 號）", 100, "IH", 1], ["蜜香紅茶", 100, "H"], ["蜂蜜柚子紅茶", 140, "IH"], ["蜂蜜奶茶", 140, "H"]]]];
+            var sweets = [["紅豆奶酪", 80], ["手工餅乾", 60]];
+            var plates = [["澳式酪梨盤", 370, "酪梨片、芝麻酸種麵包、炒菇、烤時蔬、厚培根、歐姆蛋、生菜", 2], ["酪雞生菜盤", 320, "酪梨蛋片、舒肥雞胸、太陽蛋、巴薩米克油醋醬、生菜"], ["哈里薩酸種", 290, "酪梨片、芝麻酸種麵包、太陽蛋、哈里薩醬、生菜", 1, "哈里薩醬：紅甜椒與中東香料調和的醬料，香氣濃郁、帶點柔和辣感。"], ["520 單人套餐", 520, "豬里肌、太陽蛋、貝果、烤時蔬、炒菇、湯、點心、飲品、生菜"], ["炒飯餐盤", 260, "炒飯、豬里肌、太陽蛋"], ["超營養拌飯", 320, "藜麥飯、毛豆、炒菇、炒蛋、豬里肌、金柑醬", 2], ["訓練ㄟ氣力", 380, "燕麥優格杯、太陽蛋、雞腿排、炒菇、生菜"]];
+            var singles = [["厚培根", 100], ["舒肥雞胸", 110, 1], ["豬里肌", 120], ["雞腿排", 140], ["鮭魚菲力", 180], ["炒飯", 100], ["太陽蛋", 60], ["歐姆蛋", 70, 1], ["酪梨花", 100], ["狡猾薯餅", 80, 1], ["燕麥優格杯", 120], ["主廚濃湯", 120], ["生菜沙拉", 120], ["芝麻酸種麵包", 80], ["花生醬貝果", 80], ["草莓醬貝果", 80]];
+
+            function tg(k) {
+                return k == 1 ? '<span class="t g">新品</span>' : k == 2 ? '<span class="t y">人氣</span>' : ''
+            }
+            function row(n, p, ih, k) {
+                return '<div class="row"><span>' + n + tg(k) + (ih ? (ih.indexOf("I") > -1 ? '<span class="t">I</span>' : '') + (ih.indexOf("H") > -1 ? '<span class="t h">H</span>' : '') : '') + '</span><i class="dots"></i><span class="p">$' + p + '</span></div>'
+            }
+            var views = {
+                "飲品": function() {
+                    return drinks.map(function(g) {
+                        return '<div class="card"><h2>' + g[0] + '</h2>' + g[1].map(function(i) {
+                            return row(i[0], i[1], i[2], i[3])
+                        }).join('') + '</div>'
+                    }).join('')
+                },
+                "餐盤": function() {
+                    return '<div class="card"><h2>座坐餐盤</h2><p class="sub">點餐盤加購飲品折 $50</p>' + plates.map(function(p, i) {
+                        return '<div class="plate"><div class="hd"><span><span class="num">' + (i + 1) + '</span>' + p[0] + tg(p[3]) + '</span><i class="dots"></i><span class="p">$' + p[1] + '</span></div><small>' + p[2] + '</small>' + (p[4] ? '<div class="note">' + p[4] + '</div>' : '') + '</div>'
+                    }).join('') + '<div class="note">6、7 號為「鋭突破 × 座坐」健身餐。</div></div>'
+                },
+                "單點": function() {
+                    return '<div class="card"><h2>單點</h2>' + singles.map(function(i) {
+                        return row(i[0], i[1], '', i[2])
+                    }).join('') + '</div>'
+                },
+                "點心": function() {
+                    return '<div class="card"><h2>點心</h2>' + sweets.map(function(i) {
+                        return row(i[0], i[1])
+                    }).join('') + '</div>'
+                }
+            };
+            var chips = document.getElementById('chips')
+              , list = document.getElementById('list');
+            function show(k) {
+                list.innerHTML = views[k]();
+                [].forEach.call(chips.children, function(b) {
+                    b.setAttribute('aria-pressed', b.textContent === k)
+                })
+            }
+            Object.keys(views).forEach(function(k) {
+                var b = document.createElement('button');
+                b.textContent = k;
+                b.onclick = function() {
+                    show(k)
+                }
+                ;
+                chips.appendChild(b)
+            });
+            show("餐盤");
+            document.getElementById('rules2').innerHTML = document.getElementById('rules').outerHTML.replace(' id="rules"', '');
+
+            var tabs = [].slice.call(document.querySelectorAll('#menu button'));
+            function go(t) {
+                document.querySelectorAll('section').forEach(function(s) {
+                    s.classList.toggle('on', s.id === (t === 'menu' ? 'menu-sec' : t))
+                });
+                tabs.forEach(function(b) {
+                    b.setAttribute('aria-selected', b.dataset.t === t)
+                });
+                var bb = document.getElementById('backbox');
+                bb.innerHTML = t === 'overview' ? '' : '<button class="btn alt back" id="bk"><svg class="i"><use href="#i-up"/></svg>返回主選單</button>';
+                if (t !== 'overview')
+                    document.getElementById('bk').onclick = function() {
+                        document.getElementById('menu').scrollIntoView({
+                            behavior: 'smooth',
+                            block: 'center'
+                        })
+                    }
+                    ;
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            }
+            tabs.forEach(function(b) {
+                b.onclick = function() {
+                    go(b.dataset.t)
+                }
+            });
+            document.querySelectorAll('[data-go]').forEach(function(b) {
+                b.onclick = function() {
+                    go(b.dataset.go)
+                }
+            });
+
+            var c = document.getElementById('c');
+            for (var i = 1; i <= 8; i++) {
+                c.add(new Option(i + ' 位',i))
+            }
+            c.value = 2;
+            var d = document.getElementById('d');
+            d.min = new Date().toISOString().slice(0, 10);
+            d.value = d.min;
+            document.getElementById('gen').onclick = function() {
+                var n = document.getElementById('n').value.trim() || '（未填）';
+                if (!d.value) {
+                    alert('請選擇日期');
+                    return
+                }
+                if (new Date(d.value + 'T00:00:00').getDay() === 3) {
+                    alert('週三公休，請改選其他日期');
+                    return
+                }
+                var txt = '【羅東座坐訂位】\n姓名：' + n + '\n日期：' + d.value + '\n時間：' + document.getElementById('tm').value + '\n人數：' + c.value + ' 位';
+                var o = document.getElementById('out');
+                o.textContent = txt;
+                o.style.display = 'block';
+                try {
+                    navigator.clipboard.writeText(txt).then(function() {
+                        o.textContent = txt + '\n\n已複製，請撥電話與店家確認。'
+                    })
+                } catch (e) {}
+            }
+            ;
+        </script>
+    </body>
+</html>
